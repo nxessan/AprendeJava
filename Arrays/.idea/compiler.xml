@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Arrays_03" />
+        <module name="Arrays_02" />
+        <module name="Arrays_01" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Arrays_01" target="17" />
+      <module name="Arrays_02" target="17" />
+      <module name="Arrays_03" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
